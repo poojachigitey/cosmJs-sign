@@ -1,0 +1,35 @@
+.cosmjs {
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.cosmjs_header {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.cosmjs_button {
+    background: #e7b919;
+    height: 40px;
+    border: none;
+    border-radius: 4px;
+    padding: 10px 20px;
+    font-size: 18px;
+    color: #fff;
+    cursor: pointer;
+}
+
+.cosmjs_res {
+    font-size: 20px;
+    margin: 20px 0;
+}
+
+.tx_hash_cosmjs {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fb6161;
+}
