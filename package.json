@@ -39,6 +39,7 @@
   "devDependencies": {
     "@cosmjs/encoding": "^0.23.0",
     "@cosmjs/faucet": "^0.23.0",
-    "@cosmjs/launchpad": "^0.23.0"
+    "@cosmjs/launchpad": "^0.23.0",
+    "@cosmostation/cosmosjs": "^0.6.12"
   }
 }

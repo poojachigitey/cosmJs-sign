@@ -1,0 +1,27 @@
+.cosmosjs {
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.cosmosjs_header {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.cosmosjs_button {
+    background: #e7b919;
+    height: 40px;
+    border: none;
+    border-radius: 4px;
+    padding: 10px 20px;
+    font-size: 18px;
+    color: #fff;
+    cursor: pointer;
+}
+
+.cosmosjs_info {
+    margin: 20px 0;
+}
